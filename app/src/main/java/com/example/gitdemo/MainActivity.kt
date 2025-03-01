@@ -15,7 +15,7 @@ import com.example.gitdemo.ui.theme.GitDemoTheme
 class MainActivity : ComponentActivity() {
     //test commit
     //test commit 2
-    // draft pr dummy commit
+    // draft pr dummy commit// adding conflict
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
