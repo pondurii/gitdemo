@@ -14,6 +14,7 @@ import com.example.gitdemo.ui.theme.GitDemoTheme
 
 class MainActivity : ComponentActivity() {
     //test commit
+    //test commit 2
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
