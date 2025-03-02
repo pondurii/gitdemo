@@ -13,13 +13,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.gitdemo.ui.theme.GitDemoTheme
 
 class MainActivity : ComponentActivity() {
-    //test commit
-    //test commit 2
-    // draft pr dummy commit// adding conflict//resolved now
-    //c1
-    //c2
-    //b3
-    //b4
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
