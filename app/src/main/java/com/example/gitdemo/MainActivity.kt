@@ -16,6 +16,7 @@ class MainActivity : ComponentActivity() {
     //test commit
     //test commit 2
     // draft pr dummy commit// adding conflict//resolved now
+    //c1
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
